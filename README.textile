@@ -1,0 +1,12 @@
+h1. Heart Of The Underwood
+
+h2. A multi-scenario single-player campaign for "The Battle For Wesnoth":http://www.wesnoth.org/.
+
+p. The Battle for Wesnoth is a "free":http://www.wesnoth.org/, turn-based tactical strategy game with a high fantasy theme, featuring both single-player, and online/hotseat multiplayer combat.
+
+p. _Heart Of The Underwood_ is a single-player campaign, designed for Wesnoth version *1.8.6* or later. It tells the story of the dwarf Ruvas and his accidental discovery of something thought long-since lost.
+
+h2. Status
+
+p. _Heart Of The Underwood_ is incomplete, and (at the moment) unplayable.
+
